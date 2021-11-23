@@ -5,9 +5,8 @@ Find out what features in [movie dataset](https://www.youtube.com/redirect?event
 
 Findings:
 
-votes           gross             0.630757
-gross           votes             0.630757
-                budget            0.740395
-budget          gross             0.740395
-year_corrected  released          0.993694
-released        year_corrected    0.993694
+votes           gross             0.630757<br>
+gross           votes             0.630757<br>
+budget          gross             0.740395<br>
+year_corrected  released          0.993694<br>
+released        year_corrected    0.993694<br>
